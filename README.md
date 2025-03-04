@@ -10,7 +10,7 @@ Factorice su FSM y utilice por lo menos una vez la arquitectura Moore y Mealy.
 
 Esta es la Tarea C3B realizada aca : [Link a Github](https://github.com/UMG-GT/c3b-erickespa)
 
---
+
 
 ## Segunda Serie
 
