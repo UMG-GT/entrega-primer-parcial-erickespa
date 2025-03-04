@@ -1,1 +1,11 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/wWwfHukH)
+### Primer Parcial
+
+---
+
+## Primera Serie
+
+Diseñe una maquina de estados finitos de algún proceso, maquina, dispositivo, etc. Que demuestre su comprensión de la implementación de las mismas.
+
+Factorice su FSM y utilice por lo menos una vez la arquitectura Moore y Mealy.
+
+Esta es la Tarea C3B realizada aca : [Link a Github](https://github.com/UMG-GT/c3b-erickespa)
